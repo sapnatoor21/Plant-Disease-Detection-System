@@ -1,6 +1,3 @@
-Here’s a **professional introduction** for your **GitHub README** profile for the **Plant Disease Detection System** project:  
-
----
 
 # 🌿 Plant Disease Detection System  
 
